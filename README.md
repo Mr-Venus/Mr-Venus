@@ -1,4 +1,4 @@
-## Olá Diogo aqui! Estudante de programação e futuro Dev👨‍💻.
+## Olá, Diogo aqui! Estudante de programação e futuro Dev👨‍💻.
 
 **Formações:**
   - Técnico em Informática para Internet. ✔️ <img align="center" height="40px" width="40px" src="https://avatars.githubusercontent.com/u/29155968?s=280&v=4"/>

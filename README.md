@@ -6,6 +6,7 @@
   - Tecnólogo em Análise e Desenvolvimento de Sistemas | **4º semestre**. <img align="center" height="40px" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN0fVdVh8BKUoL5zoqW0QmCHzsgQdN05BsaA&s"/>
 
 <div style="display: inline-block"><br>
+  <img align="center" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="center" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
